@@ -1,0 +1,11 @@
+.main_div{
+    font-family: 'Mate SC', serif; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+hr{
+    border: 1px solid black;
+    width:50vw;
+}
